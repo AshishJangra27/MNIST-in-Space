@@ -27,8 +27,15 @@ Install dependencies:
 pip install numpy tensorflow matplotlib scikit-learn plotly opencv-python seaborn
 ```
 
+## Codes Colab
+[MNIST Workbook](https://colab.research.google.com/drive/12b2UcXQungW8yuQD283ybI4u7M5HNGPz?usp=sharing)
 
-![MNIST Workbook](https://colab.research.google.com/drive/12b2UcXQungW8yuQD283ybI4u7M5HNGPz?usp=sharing)
-![MNIST in Space](https://colab.research.google.com/drive/1lOwKwAFUzuvNTsKxnHCDB4EH0SW6Vnij?usp=sharing)
+[MNIST in Space](https://colab.research.google.com/drive/1lOwKwAFUzuvNTsKxnHCDB4EH0SW6Vnij?usp=sharing)
 
+## Connect with me
 
+- [LinkedIn](https://www.linkedin.com/in/ashish-jangra/)
+- [GitHub](https://github.com/AshishJangra27)
+- [Kaggle](https://www.kaggle.com/ashishjangra27)
+
+Stay updated with my latest content and projects!
