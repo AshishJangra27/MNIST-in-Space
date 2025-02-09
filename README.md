@@ -21,6 +21,7 @@ MNIST-in-Space/
 
 
 
-Colab Link : https://colab.research.google.com/drive/1lOwKwAFUzuvNTsKxnHCDB4EH0SW6Vnij?usp=sharing
+Workbook : https://colab.research.google.com/drive/12b2UcXQungW8yuQD283ybI4u7M5HNGPz?usp=sharing
+MNIST in Space : https://colab.research.google.com/drive/1lOwKwAFUzuvNTsKxnHCDB4EH0SW6Vnij?usp=sharing
 
 Image[https://raw.githubusercontent.com/AshishJangra27/MNIST-in-Space/refs/heads/main/training_60k.png]
