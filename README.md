@@ -1,6 +1,6 @@
 # MNIST-in-Space
 
-This project explores **handwritten digit visualization** using **t-SNE for dimensionality reduction** and overlays actual images instead of scatter points. 
+###### This project explores **handwritten digit visualization** using **t-SNE for dimensionality reduction** and overlays actual images instead of scatter points. 
 ---
 
 ## Features
