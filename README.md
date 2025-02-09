@@ -4,10 +4,10 @@
 ---
 
 ## Features
-**LeNet-based Model** for digit feature extraction  
-**t-SNE for Dimensionality Reduction** (2D & 3D)  
-**Overlay Images Instead of Points** for better interpretation  
-**2D Visualization with Plotly**  
+**- LeNet-based Model** for digit feature extraction  
+**- t-SNE for Dimensionality Reduction** (2D & 3D)  
+**- Overlay Images Instead of Points** for better interpretation  
+**- 2D Visualization with Plotly**  
 
 ---
 
@@ -18,6 +18,11 @@ MNIST-in-Space/
 │── Workbook.ipynb         # Model Training & Logits Generation
 │── README.md              # Project Documentation
 ```
+
+## Installation
+Install dependencies:
+```bash
+pip install numpy tensorflow matplotlib scikit-learn plotly opencv-python seaborn
 
 
 
