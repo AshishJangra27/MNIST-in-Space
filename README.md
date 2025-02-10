@@ -28,9 +28,14 @@ pip install numpy tensorflow matplotlib scikit-learn plotly opencv-python seabor
 ```
 
 ## Codes Colab
+
+
+[Fashion MNIST](https://colab.research.google.com/drive/1lN7Ux0ntsA0ETN8svGjbC8A-9m05ldip?usp=sharing)
+
 [MNIST Workbook](https://colab.research.google.com/drive/12b2UcXQungW8yuQD283ybI4u7M5HNGPz?usp=sharing)
 
 [MNIST in Space](https://colab.research.google.com/drive/1lOwKwAFUzuvNTsKxnHCDB4EH0SW6Vnij?usp=sharing)
+
 
 ## Connect with me
 
